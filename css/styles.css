@@ -851,4 +851,9 @@ img {
   cursor: pointer;
 }
 
+.modal-form {
+  display: flex;
+  flex-direction: column;
+}
+
 /* ========= END MODAL BTNs & BACKDROPs =========*/
