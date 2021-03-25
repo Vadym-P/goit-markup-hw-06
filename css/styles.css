@@ -873,8 +873,8 @@ img {
 
 .action-desc {
   display: block;
-  font-family: var(--main-font)
-  font-weight: bold;
+  font-family: var(--main-font);
+  font-weight: 700;
   font-size: 20px;
   line-height: 1.15;
   text-align: center;
@@ -941,7 +941,7 @@ img {
   resize: none;
   border: 1px solid rgba(33, 33, 33, 0.2);
   border-radius: 4px;
-  font-family: var(--main-font)
+  font-family: var(--main-font);
   font-weight: 400;
   font-size: 12px;
   line-height: 1.17;
@@ -1013,7 +1013,7 @@ img {
   color: var(--white-color);
 
   transition: background-color var(--transition-time-cubic),
-  box-shadow var(--transition-time-cubic);
+    box-shadow var(--transition-time-cubic);
 }
 
 .modal-form-btn:hover,
